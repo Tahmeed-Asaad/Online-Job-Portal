@@ -1,0 +1,2 @@
+C:\Users\TAHMEED\Desktop\Online-Job-Portal-master\packages\obj\Debug\JOBPORTAL.csprojAssemblyReference.cache
+C:\Users\TAHMEED\Desktop\Online-Job-Portal-master\packages\obj\Debug\JOBPORTAL.csproj.CoreCompileInputs.cache
