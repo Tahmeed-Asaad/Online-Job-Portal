@@ -104,6 +104,50 @@ This website has two users:
 
 </div>
 
+<div>
+  <h3> Features available to the seekers </h3>
+  
+ <img src="DEMO_IMAGES/6.png">
+ 
+ </div>
+ 
+ <div>
+  <h3> Seekers can search for job advertisements using job title, company name, keywords, location (city, province, region) </h3>
+  
+ <img src="DEMO_IMAGES/7.png">
+ 
+ </div>
+ 
+ 
+ <div>
+  <h3> They can short list any job advertisement which they like from the search result </h3>
+  
+ <img src="DEMO_IMAGES/8.png">
+ 
+ </div>
+ 
+ 
+  <div>
+ <h3> They can see detailed information of employers who shortlisted them </h3>
+ 
+  <img src="DEMO_IMAGES/9.png">
+  <img src="DEMO_IMAGES/10.png">
+ 
+
+
+</div>
+
+
+<div>
+ <h3> They can see the job advertisements they shortlisted  </h3>
+ 
+  <img src="DEMO_IMAGES/11.png">
+  <img src="DEMO_IMAGES/12.png">
+ 
+
+
+</div>
+
 
 
  
