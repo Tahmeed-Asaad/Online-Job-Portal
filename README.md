@@ -18,27 +18,42 @@ This project is aimed at developing an online search portal for the placement de
 
 ## Features
 
-This school website has two users:
+This website has two users:
 
-1. Teacher:
+1. Jobseekers:
 
-  * Download his schedule/routine
+  * Can update their pofile information
   
-  * Search attendance by date(taken by him)
+  * Can upload CV/Resume
   
-  * Search result by subject
+  * Can upload profile picture and update it
 
-  * View all the attendances taken by him
+  * Can search for job advertisements using job title, company name, keywords, location (city, province, region)
   
-2. Student:
+  * Can short list any job advertisement which they like
+  
+  * Can see detailed information of employers who shortlisted them
+  
+2. Employers:
 
-  * Download his class routine
+  * Can update their pofile information
   
-  * Search his attendance by date
+  * Can upload profile picture and update it
   
-  * View all his attendance
+  * Can post job advertisements
   
-  * View his result
+  * Can see all the job advertisements posted by them
+  
+  * Can search for seekers by their educational degree/qualification
+  
+  * They can shortlist their preferred candidates from the search result by downloading their CV/Resume
+  
+  * They can keep track of all the seekers they shortlisted
+  
+  * They can see the detailed contact information of the seekers who shortlisted the jobs published by them
+  
+  
+
   
 
   ## Technologies
