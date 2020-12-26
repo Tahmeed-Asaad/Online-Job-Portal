@@ -99,10 +99,10 @@ This website has two users:
 
 <div class="row">
   <div class="column">
-    <img src="DEMO_IMAGES/4.png">
+    <img src="DEMO_IMAGES/4.png" style="width:50%">
   </div>
   <div class="column">
-    <img src="DEMO_IMAGES/5.png">
+    <img src="DEMO_IMAGES/5.png" style="width:50%">
   </div>
 </div>
 
