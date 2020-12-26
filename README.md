@@ -97,7 +97,7 @@ This website has two users:
  
  <h3> They can see which seekers shortlisted the jobs which they published on this site </h3>
 
- <p>
+ <p float="left">
 
     <img src="DEMO_IMAGES/4.png" style="width:50%"/>
   
