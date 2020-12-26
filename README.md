@@ -99,8 +99,8 @@ This website has two users:
  
  
  <p float="left">
-  <img src="DEMO_IMAGES/4.png" width="500"/>
-  <img src="DEMO_IMAGES/5.png" widht="500"/> 
+  <img src="DEMO_IMAGES/4.png" width="100"/>
+  <img src="DEMO_IMAGES/5.png" widht="100"/> 
 </p>
 
 </div>
