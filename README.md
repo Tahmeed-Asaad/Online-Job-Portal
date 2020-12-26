@@ -107,8 +107,6 @@ This website has two users:
  
 </div>
 
-
-</div>
  
  ## Setup
  
