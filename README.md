@@ -94,13 +94,16 @@ This website has two users:
  </div>
 
  
+ <div>
  <h3> They can see which seekers shortlisted the jobs which they published on this site </h3>
  
  
  <p float="left">
-  <img src="DEMO_IMAGES/4.png" width="50%"/>
-  <img src="DEMO_IMAGES/5.png" widht="50%"/> 
+  <img src="DEMO_IMAGES/4.png" width="500"/>
+  <img src="DEMO_IMAGES/5.png" widht="500"/> 
 </p>
+
+</div>
 
 
 
