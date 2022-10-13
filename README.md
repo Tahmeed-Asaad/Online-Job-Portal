@@ -143,7 +143,7 @@ This website has two users:
  
   <img src="DEMO_IMAGES/11.png">
   <img src="DEMO_IMAGES/12.png">
- <img src="DEMO_IMAGES/GIF.gif">
+ 
 
 
 </div>
